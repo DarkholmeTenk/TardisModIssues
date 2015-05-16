@@ -1,7 +1,7 @@
 TardisModIssues
 ===============
 
-Issues tracker for TardisMod.
+The Issues tracker for TardisMod.
 
 The Minecraft Forums
 http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2420176-tardis-mod
