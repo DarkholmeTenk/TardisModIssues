@@ -1,9 +1,13 @@
-TardisModIssues
+
+![IssuesTracker](http://i.imgur.com/yYpNioR.png "")
 ===============
+
 
 The Issues tracker for TardisMod.
 
-The Minecraft Forums
+Please only download TardisMod from the trusted sources below.
+
+Minecraft Forums
 http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2420176-tardis-mod
 
 CurseForge Page
