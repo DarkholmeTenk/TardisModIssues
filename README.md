@@ -17,4 +17,4 @@ Jenkins
 http://darkcraft.io:8080/
 
 User Guide
-http://tardis.darkcraft.io/
+http://tardismod.com/
